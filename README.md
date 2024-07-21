@@ -1,6 +1,6 @@
 # Hello, World! 👋🏼
 
-I'm Moiz Ahmed, a BSc Computer Science student. Welcome to my GitHub profile!
+I am Moiz Ahmed, a BSc Computer Science student. Welcome to my GitHub profile!
 
 ## About Me
 
