@@ -4,8 +4,8 @@ I'm Moiz Ahmed, a BSc Computer Science student. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🔭 I am currently working as Data Analytics Intern at TechnoHacks.
-- 🚀 I am learning Python, Data Science, Data Analytics and Designing.
+- 🔭 I am currently working as Data Engineering Intern at MCB Bank Limited.
+- 🚀 I am learning Python, Data Science, Data Analytics, Development and Machine Learning.
 - 💬 Ask me about Databases, SQL, Python, Data Science and Designing.
 - ⚡ Fun fact: I am a creative thinker and a passionate learner.
 
